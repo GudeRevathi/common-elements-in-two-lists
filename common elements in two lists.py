@@ -7,4 +7,4 @@ for ele in lis1:
 print(lis3)
 
 ''' lis3=list(set(lis1) & set(lis2))
-    print(lis3'''
+    print(lis3)'''
